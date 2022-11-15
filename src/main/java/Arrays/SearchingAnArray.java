@@ -1,9 +1,13 @@
+
 package Arrays;
 
 import java.util.Scanner;
 
 public class SearchingAnArray {
 
+	
+	  
+	 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int [] num = {1,2,3,4,5,6};
@@ -16,14 +20,11 @@ public class SearchingAnArray {
 			{
 				System.out.println(number+"the index number is"+pos);
 			}
-			else
-			{
-				System.out.println("Not found");
-			}
 			
 				
 			
 		}
+		
 		
 
 	}

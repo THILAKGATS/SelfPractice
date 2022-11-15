@@ -1,6 +1,7 @@
 package Arrays;
 
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class InsertingAnArray {
 
@@ -15,6 +16,8 @@ public class InsertingAnArray {
 			{
 				System.out.print(num[i]+" ");
 			}
+			
+			
 			
 			
 		}

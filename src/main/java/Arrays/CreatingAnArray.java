@@ -13,6 +13,10 @@ public class CreatingAnArray {
 		{
 			System.out.println(a[i]);
 		}
+		for(int a1:a)
+		{
+			System.out.print(a1);
+		}
 	
 
 	}
